@@ -63,19 +63,7 @@ El proyecto busca alcanzar los siguientes objetivos especificos:
 
 
 
-## **KPIs**
 
-+ **KPI 1**: Tasa de mortalidad
-*Métrica:* Número de muertes a bordo/Número total de personal a bordo
-*Objetivo:* Reducción del 5% anualmente
-
-+ **KPI 2:** Tasa de Supervivencia
-*Métrica:* Número de Sobrevivientes/Número total de personas a bordo
-*Objetivo:* Reducción de un 10% anualmente
-
-+ **KPI 3:** Tasa de accidentes por aeronaves
-*Métrica:* Cantidad accidentes por aeronaves (Douglas DC-3, Douglas C-47A, Douglas C-47) - la cantidad de accidentes por aeronaves del año anterior / Cantidad acc. año anterior.
-*Objetivo:* Tasa de accidentes por aeronaves por debajo del 3% anualmente
 
 
 [Dashboard](https://github.com/BeluSandoval/PI03-Analytics/blob/main/dashboardPIDA.pbix)
